@@ -1,0 +1,8 @@
+# Core
+mujoco>=3.2.5
+gymnasium>=0.29.1
+numpy>=1.26
+stable-baselines3>=2.3.2
+torch>=2.3
+# Utils
+matplotlib>=3.8
